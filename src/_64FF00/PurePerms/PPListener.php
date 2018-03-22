@@ -9,7 +9,7 @@ use pocketmine\event\entity\EntityLevelChangeEvent;
 use pocketmine\event\player\PlayerCommandPreprocessEvent;
 use pocketmine\event\player\PlayerQuitEvent;
 use pocketmine\event\player\PlayerLoginEvent;
-use pocketmine\event\TranslationContainer;
+use pocketmine\lang\TranslationContainer;
 use pocketmine\Player;
 use pocketmine\utils\TextFormat;
 
